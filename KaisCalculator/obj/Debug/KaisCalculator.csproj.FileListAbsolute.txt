@@ -1,0 +1,6 @@
+c:\users\work.experience\documents\visual studio 2017\Projects\KaisCalculator\KaisCalculator\bin\Debug\KaisCalculator.exe.config
+c:\users\work.experience\documents\visual studio 2017\Projects\KaisCalculator\KaisCalculator\bin\Debug\KaisCalculator.exe
+c:\users\work.experience\documents\visual studio 2017\Projects\KaisCalculator\KaisCalculator\bin\Debug\KaisCalculator.pdb
+c:\users\work.experience\documents\visual studio 2017\Projects\KaisCalculator\KaisCalculator\obj\Debug\KaisCalculator.csprojResolveAssemblyReference.cache
+c:\users\work.experience\documents\visual studio 2017\Projects\KaisCalculator\KaisCalculator\obj\Debug\KaisCalculator.exe
+c:\users\work.experience\documents\visual studio 2017\Projects\KaisCalculator\KaisCalculator\obj\Debug\KaisCalculator.pdb
